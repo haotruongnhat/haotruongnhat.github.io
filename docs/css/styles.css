@@ -50,7 +50,7 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
+    background: #3d445a;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -113,7 +113,7 @@ a.btn:hover {
 }
 
 .header {
-    background: #00BCD4;
+    background:#797f90;
     color: #fff;
 }
 
@@ -197,7 +197,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #00a5bb;
+    background: #3d445a;
     padding-top: 90px;
     padding-bottom: 30px;
     position: relative;
@@ -216,7 +216,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #007888;
+    background: #797f90;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -233,7 +233,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #00BCD4;
+    background: #3d445a;
 }
 
 .page-nav-wrapper a {
@@ -316,7 +316,7 @@ a.btn:hover {
 }
 
 .timeline {
-    border-left: 3px solid #00BCD4;
+    border-left: 3px solid #819aa9;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -350,7 +350,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #00BCD4;
+    border: 3px solid #797f90;
 }
 
 .timeline .item:after {
@@ -369,7 +369,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #00BCD4;
+    background: #819aa9;
     z-index: 10;
 }
 
