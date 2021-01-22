@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<h1>{{ page.project }}</h1>
-<a href="{{ page.github_repo }}">Link to Github repo</a>
+<h1> <b> {{ page.project }} </b> </h1>
 
-<h3>Description: </h3>
+{% if page.link_to_github == true %}
+    <a href="{{ page.github_repo }}">Link to Github repo</a>
+{% endif %}
+
+<br></br>
+{% comment %} <h3> <b> Description: </b></h3> {% endcomment %}
 
 {{ content }}

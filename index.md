@@ -13,16 +13,22 @@ layout: default
 
 [Armbot](/academic/armbot)
 
+[Student of Five Good Merits](/academic/student5merits)
+
 [Thesis](/academic/thesis)
 
 [Ball and Plate](/academic/ballnplate)
 
 # Professional
-[Humanoid Robot's Perception System](/academic/robot)
+[Humanoid Robot's Perception System](/professional/robot)
 
-[Tilted-lens Stereo Camera System](/academic/stereo)
+[Tilted-lens Stereo Camera System](/professional/stereo)
 
-[Telepresence Robot](/academic/telepresence)
+[Telepresence Robot](/professional/telepresence)
 
-[viMusic](/academic/viMusic)
+[viMusic](/professional/viMusic)
 
+# Others
+[Marathon](/others/marathon)
+
+[Trekking](/others/trekking)
