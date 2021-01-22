@@ -5,21 +5,21 @@
 layout: default
 ---
 
-# Academic
+# :heavy_check_mark: Academic
 
-[Bachelor program](/academic/bachelor)
+[Bachelor program](/academic/bachelor) :2nd_place_medal:
 
-[Micromouse](/academic/micromouse)
+[Micromouse](/academic/micromouse) :1st_place_medal:
 
 [Armbot](/academic/armbot)
 
-[Student of Five Good Merits](/academic/student5merits)
+[Student of Five Good Merits](/academic/student5merits) :medal_military:
 
 [Thesis](/academic/thesis)
 
 [Ball and Plate](/academic/ballnplate)
 
-# Professional
+# :heavy_check_mark: Professional
 [Humanoid Robot's Perception System](/professional/robot)
 
 [Tilted-lens Stereo Camera System](/professional/stereo)
@@ -29,6 +29,6 @@ layout: default
 [viMusic](/professional/viMusic)
 
 # Others
-[Marathon](/others/marathon)
+:running_man: [Marathon](/others/marathon)
 
-[Trekking](/others/trekking)
+:mountain:[Trekking](/others/trekking)
