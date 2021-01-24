@@ -11,8 +11,8 @@ layout: page
 
 -   Finally, the distances from points to planes are computed by the projection of 3D points onto a single 3D plane. The project successfully met the requirements, with the **measurement’s repeatability smaller than 10 microns and accuracy being about 15 microns**. Undergoing this project gave me a strong foundation on Computer Vision and 3D Reconstruction, as well as being well-established knowledge of camera models and lens calibration.
 
-    <img src="img/stereo-chip.jpg" height="500">
-    <img src="img/stereo-system.jpg" height="500">
-    <img src="img/stereo-ball.jpg" height="250">
-    <img src="img/stereo-reference.jpg" height="250">
+    <img src="img/stereo-chip.jpg" width="350">
+    <img src="img/stereo-system.jpg" width="350">
+    <img src="img/stereo-ball.jpg" width="350">
+    <img src="img/stereo-reference.jpg" width="350">
 

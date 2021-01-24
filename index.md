@@ -11,13 +11,13 @@ layout: default
 
 [Micromouse](/academic/micromouse) :1st_place_medal:
 
-[Armbot](/academic/armbot)
+[Armbot](/academic/armbot) :3rd_place_medal:
 
 [Student of Five Good Merits](/academic/student5merits) :medal_military:
 
 [Thesis](/academic/thesis)
 
-[Ball and Plate](/academic/ballnplate)
+[Ball and Plate](/academic/ballnplate) :rosette:
 
 # :heavy_check_mark: Professional
 [Humanoid Robot's Perception System](/professional/robot)
