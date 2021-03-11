@@ -68,9 +68,3 @@ The first one is always messed up in every project, but we can gained a lot of t
     <img src="img/unnamed2.png" width="350">
     <img src="img/unnamed3.png" width="350">
     <img src="img/unnamed4.png" width="350">
-
-
-
--   Further step was implemented Dense Fusion for 6-DOF Object Detection
-    
-    <img src="img/unnamed.png" width="700">
